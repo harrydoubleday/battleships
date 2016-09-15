@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-
+//Some changes...
 public class Main {
 	 static boolean j =true;
 	 static boolean inPlay = true;
